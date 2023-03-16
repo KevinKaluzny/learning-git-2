@@ -12,3 +12,13 @@ body {
     line-height: 1.7;
     font-family: 'Sawarabi Mincho', serif;
 }
+
+/* Content */
+
+.container {
+    display: flex;
+}
+
+.box {
+    margin: auto;
+}
